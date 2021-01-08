@@ -1,0 +1,14 @@
+{
+  "name": "wireguardautosetupip",
+  "version": "lastest",
+  "description": "",
+  "scripts": {
+    "add": "node main.js"
+  },
+  "author": "M1000",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.4",
+    "wireguard-wrapper": "^1.0.2"
+  }
+}
